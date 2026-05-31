@@ -1,0 +1,17 @@
+# Proposal website files (unrelated to batch pipeline)
+index.html
+index_old.html
+deploy.py
+cleanup.py
+site-url.txt
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+*.egg-info/
+
+# AWS credentials (never commit)
+.aws/
+credentials
